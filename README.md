@@ -5,10 +5,13 @@ This repository contains a dataset of eye-tracking data aquired during remote vi
 
 
 ```
-Eye Movement in a Controlled Dialogue Setting
-D. Dembinksy, K. Watanabe, S. Ishimaru, A. Dengel
+David Dembinsky, Ko Watanabe, Andreas Dengel, and Shoya Ishimaru.  
+2024. Eye Movement in a Controlled Dialogue Setting.  
+In 2024 Symposium on Eye Tracking Research and Applications (ETRA ’24), June 04–07, 2024,
+Glasgow, United Kingdom. ACM, New York, NY, USA, 7 pages.
+https://doi.org/10.1145/3649902.3653337
 ```
-The publication can be found [here](https://foo.bar/foobar)
+The publication can be found [here](https://www.researchgate.net/publication/379226792_Eye_Movement_in_a_Controlled_Dialogue_Setting)
 
 ## Data
 The [data](data/) is collected from 19 participants, each found in a seperate folder.  
