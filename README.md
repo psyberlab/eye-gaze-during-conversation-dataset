@@ -25,7 +25,20 @@ The [data_example](data_example.html) shows how to load and process the data and
 If you want to use the data  or find the code useful for your research, please cite the following paper:
 
 ```
-@bibtext{
-    foo = {bar}
+@inproceedings{10.1145/3649902.3653337,
+author = {Dembinsky, David and Watanabe, Ko and Dengel, Andreas and Ishimaru, Shoya},
+title = {Eye Movement in a Controlled Dialogue Setting},
+year = {2024},
+isbn = {9798400706073},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3649902.3653337},
+doi = {10.1145/3649902.3653337},
+booktitle = {Proceedings of the 2024 Symposium on Eye Tracking Research and Applications},
+articleno = {10},
+numpages = {7},
+keywords = {Animated Avatars, Data Collection, Eye Movement, Gaze Synthesis},
+location = {<conf-loc>, <city>Glasgow</city>, <country>United Kingdom</country>, </conf-loc>},
+series = {ETRA '24}
 }
 ```
