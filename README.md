@@ -11,7 +11,7 @@ In 2024 Symposium on Eye Tracking Research and Applications (ETRA ’24), June 0
 Glasgow, United Kingdom. ACM, New York, NY, USA, 7 pages.
 https://doi.org/10.1145/3649902.3653337
 ```
-The publication can be found [here](https://www.researchgate.net/publication/379226792_Eye_Movement_in_a_Controlled_Dialogue_Setting)
+The publication can be found [here](https://dl.acm.org/doi/10.1145/3649902.3653337)
 
 ## Data
 The [data](data/) is collected from 19 participants, each found in a seperate folder.  
